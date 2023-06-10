@@ -7,6 +7,6 @@
 
 pdf中有我实验的过程，李健老师的库太大，我掌握github大文件上传后再上传
 
-可以直接下载mlib_devel-wz xps_base xps_library 的压缩包，然后解压缩，将xps_base xps_library 放进mlib_devel-wz中就可以
+可以直接下载mlib_devel xps_base xps_library 的压缩包，然后解压缩，将xps_base xps_library 放进mlib_devel中就可以
 
 环境为 Centos6.5 matlab2013b ise14.7 
